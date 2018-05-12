@@ -1,0 +1,36 @@
+_repo: Essays-on-the-work-entitled--Supernatural-Religion-_18191
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lightfoot, J. B. (Joseph Barber)
+    aliases:
+    - Lightfoot, Joseph Barber
+    - Durham, Joseph Barber Lightfoot, Lord Bishop of
+    birthdate: 1828
+    deathdate: 1889
+    gutenberg_agent_id: '7866'
+    url: http://www.gutenberg.org/2009/agents/7866
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Barber_Lightfoot
+description: ''
+gutenberg_issued: '2006-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Fathers of the church'
+- !lcsh 'Apologetics -- History -- 19th century'
+- !lcsh 'Cassels, Walter Richard, 1826-1907. Supernatural religion'
+tableOfContents: Introduction -- The silence of Eusebius -- The Ignatian epistles
+  -- Polycarp of Smyrna -- Papias of Hierapolis. I, II -- The later school of St.
+  John -- The churches of Gaul -- Tatian's Diatessaron -- Discoveries illustrating
+  the Acts of the Apostles.
+title: Essays on the work entitled "Supernatural Religion"
+url: http://www.gutenberg.org/ebooks/18191
